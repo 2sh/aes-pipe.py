@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #
 #	Decrypter
-#	Copyright (C) 2016 Sean Hewitt <contact@SeanHewitt.com>
+#	Copyright (C) 2016-2018 Seán <contact@2sh.me>
 #
 #	This program is free software: you can redistribute it and/or modify
 #	it under the terms of the GNU General Public License as published by
